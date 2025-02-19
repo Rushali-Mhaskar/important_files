@@ -1,5 +1,9 @@
 hello jadiya 2
 
+<<<<<<< HEAD
 jadiya kutru
 
 kutru 2
+=======
+
+>>>>>>> c3eae225aeda489854d23f0c93eaf0595a192299
